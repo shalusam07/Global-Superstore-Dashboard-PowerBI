@@ -55,3 +55,9 @@ Welcome to the Power BI project for the global store dataset! This project provi
   Visualization: Stacked Area Chart
 
 ![Screenshot (78)](https://github.com/shalusam07/Global-Superstore-Dashboard-PowerBI/assets/153529471/384e6326-d879-4134-999f-87359c7a2827)
+
+# Conclusion:
+The analysis and visualizations provided in this project aim to offer stakeholders a comprehensive understanding of Global Superstore's sales data. By exploring different aspects of the dataset, users can gain valuable insights into sales patterns, shipping costs, and geographic performance.
+
+# Contributing:
+Contributions and feedback are welcome! If you have suggestions, or improvements, or encounter any issues, feel free to open an issue or submit a pull request.
