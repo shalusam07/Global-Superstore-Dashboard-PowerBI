@@ -17,7 +17,7 @@ Welcome to the Power BI project for the global store dataset! This project provi
   Develop an interactive Power BI report that allows stakeholders to explore and understand sales data dynamically.
 
 # Data Source:
-  This project uses the Global Superstore dataset, which is open-source and available on Kaggle. You can access the dataset here. The dataset is in CSV format.
+  This project uses the Global Superstore dataset, which is open-source and available on Kaggle. You can access the dataset. The dataset is in CSV format.
 
 # Visualizations:
 
